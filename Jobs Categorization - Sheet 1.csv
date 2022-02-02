@@ -1,0 +1,321 @@
+Job Category,Percentage Male,Involves Customer Interaction,Education Level
+Kindergarten and earlier school teachers,2.3,Yes,Bachelors
+Dental hygenists,2.6,Yes,Bachelors
+Secretaries,4.7,Yes,HS_GED
+Speech therapists,5.3,Yes,Graduate
+Dental assistants,5.4,Yes,Trade_Assoc
+Child care workers,7.5,Yes,HS_GED
+Registered nurses,9.4,Yes,Trade_Assoc
+Licensed practical nurses,9.6,Yes,Trade_Assoc
+Receptionists,9.7,Yes,HS_GED
+Hairdressers and cosmetologists,10.3,Yes,Trade_Assoc
+Dietitians and nutritionists,10.3,Yes,Bachelors
+Payroll and timekeeping clerks,11,No,HS_GED
+Health record tech specialists,11.2,No,Trade_Assoc
+Billing clerks and related financial records processing,11.5,Yes,HS_GED
+"Housekeepers, maids, butlers, stewards, and lodging quarters cleaners",11.7,Yes,Trade_Assoc
+Occupational therapists,11.9,Yes,Graduate
+"Health aides, except nursing",12.4,Yes,Bachelors
+Bookkeepers and accounting and auditing clerks,12.8,No,HS_GED
+Typists,14.1,No,HS_GED
+"Nursing aides, orderlies, and attendants",14.5,Yes,HS_GED
+Special education teachers,16,Yes,Bachelors
+"Human resources clerks, except payroll and timekeeping",16.2,No,Trade_Assoc
+Records clerks,16.2,No,Trade_Assoc
+General office clerks,17.3,No,HS_GED
+Librarians,18.1,Yes,Graduate
+Social workers,19.1,Yes,Bachelors
+"Legal assistants, paralegals, legal support, etc",19.2,Yes,Trade_Assoc
+Bank tellers,19.6,Yes,HS_GED
+Dancers,20.4,No,Trade_Assoc
+Primary school teachers,20.9,Yes,Bachelors
+Therapists,20.9,Yes,Graduate
+Eligibility clerks for government programs; social welfare,21,No,Bachelors
+Library assistants,21.1,Yes,HS_GED
+Data entry keyers,21.3,No,HS_GED
+File clerks,22.9,No,HS_GED
+Telephone operators,23,Yes,HS_GED
+Administrative support jobs,23.4,No,HS_GED
+Teachers,23.9,Yes,Bachelors
+"Interviewers, enumerators, and surveyors",24.1,Yes,Bachelors
+Dressmakers and seamstresses,24.6,No,HS_GED
+Dental laboratory and medical appliance technicians,25,Yes,HS_GED
+Personal service occupations,25.6,Yes,HS_GED
+Textile sewing machine operators,26,No,HS_GED
+Clinical laboratory technologies and technicians,26.2,No,Bachelors
+Proofreaders,26.5,No,Bachelors
+Cashiers,26.8,Yes,HS_GED
+Sales demonstrators / promoters / models,27,Yes,HS_GED
+"Insurance adjusters, examiners, and investigators",27.4,No,Bachelors
+Waiter/waitress,28.6,Yes,HS_GED
+Psychologists,29.4,Yes,Graduate
+Radiologic tech specialists,29.5,Yes,Trade_Assoc
+Vocational and educational counselors,29.6,Yes,Bachelors
+Animal caretakers except on farms,29.9,Yes,HS_GED
+"Personnel, HR, training, and labor relations specialists",30.1,No,Bachelors
+Bill and account collectors,30.2,Yes,HS_GED
+Managers of medicine and health occupations,30.2,No,Bachelors
+Optical goods workers,30.6,Yes,HS_GED
+Graders and sorters of agricultural products,31,No,None
+Physical therapists,31.1,Yes,Graduate
+Physicians' assistants,32,Yes,Graduate
+Managers of service organizations,32.3,Yes,Bachelors
+Winding and twisting textile/apparel operatives,32.6,No,HS_GED
+Insurance underwriters,32.9,No,Bachelors
+Welfare service aides,33.4,Yes,Bachelors
+"Customer service reps, investigators and adjusters, except insurance",33.5,Yes,HS_GED
+Transportation ticket and reservation agents,33.7,Yes,HS_GED
+Hotel clerks,34,Yes,HS_GED
+Respiratory therapists,34.6,Yes,Trade_Assoc
+Managers in education and related fields,35.2,No,Bachelors
+Pressing machine operators (clothing),35.8,No,HS_GED
+Archivists and curators,36.9,Yes,Graduate
+Kitchen workers,37.2,No,None
+Recreation workers,37.2,Yes,HS_GED
+Office supervisors,38.6,No,HS_GED
+Art/entertainment performers and related,38.9,Yes,Trade_Assoc
+Bartenders,39.7,Yes,None
+Office machine operators,39.7,No,HS_GED
+Statistical clerks,39.9,No,HS_GED
+Batch food makers,40.1,No,Trade_Assoc
+Accountants and auditors,40.4,No,Trade_Assoc
+"Knitters, loopers, and toppers textile operatives",40.5,No,None
+Public transportation attendants and inspectors,40.6,No,HS_GED
+Human resources and labor relations managers,40.6,No,Bachelors
+Technical writers,40.6,No,Bachelors
+Correspondence and order clerks,40.9,No,None
+Crossing guards and bridge tenders,40.9,No,None
+Writers and authors,41,No,Bachelors
+Supervisors of personal service jobs,41.5,No,Bachelors
+Laundry workers,42.1,No,HS_GED
+Secondary school teachers,42.5,Yes,Bachelors
+Social scientists,43.4,No,Graduate
+Management support occupations,43.9,No,Bachelors
+Veterinarians,44,Yes,Graduate
+"Packers, fillers, and wrappers",44.2,No,None
+Packers and packagers by hand,44.3,No,None
+Dispatchers,44.6,Yes,HS_GED
+Bakers,45.1,No,Trade_Assoc
+Other telecom operators,45.2,Yes,HS_GED
+"Economists, market researchers, and survey researchers",46,No,Graduate
+Waiter's assistant,46.3,Yes,None
+Real estate sales occupations,46.4,Yes,HS_GED
+"Door-to-door sales, street sales, and news vendors",46.5,Yes,HS_GED
+Designers,46.6,No,Bachelors
+"Buyers, wholesale and retail trade",46.7,No,Bachelors
+Pharmacists,46.7,Yes,Graduate
+Financial managers,47.4,No,Bachelors
+Protective services,47.5,Yes,HS_GED
+"Postal clerks, excluding mail carriers",47.6,Yes,HS_GED
+Advertising and related sales jobs,48.4,Yes,HS_GED
+Retail sales clerks,49.1,Yes,HS_GED
+Photographic process workers,49.2,No,Trade_Assoc
+Managers of properties and real estate,49.7,No,Bachelors
+Computer and peripheral equipment operators,50.2,No,Bachelors
+Guides,50.3,Yes,HS_GED
+"Purchasing managers, agents and buyers",50.5,No,Bachelors
+Subject instructors (high school/college),50.8,Yes,Graduate
+Ushers,51.1,Yes,None
+Misc food prep workers,51.1,No,None
+Mathematicians and mathematical scientists,51.1,No,Graduate
+"Weighers, measurers, and checkers",51.9,No,HS_GED
+Medical scientists,52,No,Graduate
+Photographers,52.1,Yes,Trade_Assoc
+"Managers and specialists in marketing, advertising, public relations",52.1,No,Bachelors
+Cementing and gluing maching operators,52.2,No,HS_GED
+"Mail clerks, outside of post office",52.3,No,HS_GED
+"Inspectors and compliance officers, outside construction",52.4,No,Bachelors
+Insurance sales occupations,53.7,Yes,HS_GED
+Misc textile machine operators,53.8,No,None
+Bus drivers,54.1,Yes,None
+Mail and paper handlers,54.4,No,None
+Other financial specialists,54.6,No,Bachelors
+Managers of food-serving and lodging establishments,54.7,No,HS_GED
+Machine feeders and offbearers,54.8,No,None
+Recreation facility attendants,55.1,Yes,HS_GED
+Editors and reporters,55.2,No,Bachelors
+Urban and regional planners,55.8,Yes,Bachelors
+Health technologists and technicians,56.3,No,Bachelors
+Biological technicians,56.3,No,Bachelors
+Business and promotion agents,56.4,Yes,Bachelors
+Biological scientists,56.6,No,Bachelors
+Operations and systems researchers and analysts,57.8,No,Bachelors
+Engravers,58,Yes,Trade_Assoc
+Art makers,58,No,Trade_Assoc
+"Material recording, scheduling, production, planning, expediting clerks",58.5,No,HS_GED
+Management analysts,58.7,No,Bachelors
+Physical scientists,58.7,No,Bachelors
+Optometrists,58.7,Yes,Graduate
+Bookbinders,58.8,No,None
+"Cooks, variously defined",58.9,No,Trade_Assoc
+Other health and therapy,58.9,Yes,Bachelors
+Supervisors and proprietors of sales jobs,59.7,No,Bachelors
+Chemists,60.6,No,Graduate
+"Athletes, sports instructors, and officials",61,No,Bachelors
+Assemblers of electrical equipment,61.2,No,Trade_Assoc
+"Actors, directors, producers",61.6,No,Trade_Assoc
+Mail carriers for postal service,61.9,No,HS_GED
+Actuaries,62.6,No,Bachelors
+Graders and sorters in manufacturing,63.3,No,Bachelors
+Roasting and baking machine operators (food),64.2,No,None
+Stock and inventory clerks,64.5,Yes,HS_GED
+Inspectors of agricultural products,64.5,No,Bachelors
+Lawyers,64.5,Yes,Graduate
+Shoe repairers,64.9,Yes,HS_GED
+Physicians,65,Yes,Graduate
+Supervisors of cleaning and building service,65.8,No,HS_GED
+Salespersons,66.3,Yes,HS_GED
+Musician or composer,66.3,No,Bachelors
+Paper folding machine operators,67.3,No,HS_GED
+Janitors,68.4,No,None
+Geologists,68.8,No,Bachelors
+Chemical technicians,68.9,No,Trade_Assoc
+"Purchasing agents and buyers, of farm products",68.9,Yes,Bachelors
+Textile cutting machine operators,69.4,No,HS_GED
+Financial services sales occupations,69.9,Yes,Bachelors
+Agricultural and food scientists,70.3,No,Bachelors
+Shipping and receiving clerks,70.5,Yes,HS_GED
+Managers and administrators,70.9,No,Bachelors
+Machine operators,71.7,No,HS_GED
+Clergy and religious workers,71.7,Yes,Bachelors
+Computer systems analysts and computer scientists,72.2,No,Bachelors
+Engineering technicians,72.3,No,Trade_Assoc
+Other law enforcement,73.1,No,Bachelors
+Dentists,73.6,Yes,Graduate
+Atmospheric and space scientists,75.4,No,Bachelors
+Furniture and wood finishers,75.5,No,HS_GED
+Slicing and cutting machine operators,75.7,No,HS_GED
+Supervisors of guards,75.8,No,HS_GED
+Motion picture projectionists,76,No,None
+Butchers and meat cutters,76.1,Yes,None
+Chief executives and public administrators,76.1,No,Bachelors
+Typesetters and compositors,76.2,No,HS_GED
+Air traffic controllers,76.9,No,Trade_Assoc
+Other science technicians,77.1,No,Trade_Assoc
+"Precision makers, repairers, and smiths",77.8,No,None
+Architects,77.8,No,Bachelors
+Upholsterers,78.1,No,HS_GED
+"Rollers, roll hands, and finishers of metal",78.3,No,HS_GED
+Funeral directors,78.4,Yes,Trade_Assoc
+Computer software developers,78.5,No,Bachelors
+Barbers,78.8,Yes,HS_GED
+"Wood lathe, routing, and planing machine operators",78.8,No,HS_GED
+Farm workers,79.1,No,None
+Physicists and astronomers,79.1,No,Graduate
+"Guards, watchmen, doorkeepers",79.2,Yes,HS_GED
+Industrial engineers,79.2,No,Bachelors
+Production helpers,79.5,No,None
+Announcers,79.9,No,Bachelors
+Supervisors of motor vehicle transportation,80.9,No,HS_GED
+Foresters and conservation scientists,81,No,Bachelors
+Messengers,81.8,Yes,None
+Podiatrists,81.8,Yes,Graduate
+"Police, detectives, and private investigators",82.2,Yes,HS_GED
+Laborers outside construction,82.3,Yes,None
+Production supervisors or foremen,82.3,No,HS_GED
+Drafters,82.3,No,Trade_Assoc
+Garage and service station related occupations,82.4,Yes,None
+"Molders, and casting machine operators",82.6,No,HS_GED
+Baggage porters,83.2,Yes,None
+"Petroleum, mining, and geological engineers",83.2,No,Bachelors
+Punching and stamping press operatives,83.3,No,HS_GED
+"Freight, stock, and materials handlers",83.4,No,None
+"Metallurgical and materials engineers, variously phrased",84.6,No,Bachelors
+Extruding and forming machine operators,84.7,No,HS_GED
+"Surveyors, cartographers, mapping scientists and technicians",85.1,No,Bachelors
+Vehicle washers and equipment cleaners,85.2,Yes,None
+Taxi cab drivers and chauffeurs,85.3,Yes,None
+Chemical engineers,86,No,Bachelors
+Farmers (owners and tenants),86.4,No,None
+Military,86.9,No,HS_GED
+Mixing and blending machine operatives,87.2,No,HS_GED
+Not-elsewhere-classified engineers,87.2,No,Bachelors
+Elevator operators,87.7,Yes,HS_GED
+Nail and tacking machine operators (woodworking),87.8,No,HS_GED
+Civil engineers,87.9,No,Bachelors
+Broadcast equipment operators,88,No,Trade_Assoc
+Aerospace engineer,88.1,No,Bachelors
+Construction inspectors,88.5,No,Trade_Assoc
+Repairers of data processing equipment,88.6,No,Trade_Assoc
+Painting machine operators,89.1,No,HS_GED
+Meter readers,89.3,No,HS_GED
+"Hand molders and shapers, except jewelers",89.6,No,HS_GED
+Parking lot attendants,89.8,Yes,HS_GED
+Insulation workers,90.2,No,HS_GED
+Garbage and recyclable material collectors,90.2,No,HS_GED
+"Separating, filtering, and clarifying machine operators",90.3,No,HS_GED
+Electrical engineer,90.7,No,Bachelors
+"Timber, logging, and forestry workers",90.8,No,HS_GED
+Sawing machine operators and sawyers,90.8,No,HS_GED
+Telecom and line installers and repairers,91.6,No,HS_GED
+Other woodworking machine operators,91.6,No,HS_GED
+Supervisors of mechanics and repairers,92,No,Bachelors
+Mechanical engineers,92.2,No,Bachelors
+"Furnace, kiln, and oven operators, apart from food",92.3,No,HS_GED
+Explosives workers,92.5,No,HS_GED
+Airplane pilots and navigators,92.5,No,Bachelors
+"Helpers, constructions",93.1,No,HS_GED
+Repairers of electrical equipment,93.2,No,Trade_Assoc
+Repairers of mechanical controls and valves,93.2,No,Trade_Assoc
+Programmers of numerically controlled machine tools,93.5,No,HS_GED
+Other plant and system operators,93.5,No,Bachelors
+"Painters, construction and maintenance",93.6,No,None
+Welders and metal cutters,94,No,HS_GED
+Railroad conductors and yardmasters,94,No,HS_GED
+"Truck, delivery, and tractor drivers",94.2,No,HS_GED
+Locomotive operators (engineers and firemen),94.3,No,Trade_Assoc
+Ship crews and marine engineers,94.3,No,Bachelors
+Gardeners and groundskeepers,94.4,No,HS_GED
+"Fishers, hunters, and kindred",94.6,No,None
+Cabinetmakers and bench carpenters,94.8,No,HS_GED
+Sales engineers,94.9,No,HS_GED
+Supervisors of agricultural occupations,94.9,No,Bachelors
+Misc material moving occupations,95.1,No,None
+Locksmiths and safe repairers,95.2,No,HS_GED
+"Fire fighting, prevention, and inspection",95.2,No,Trade_Assoc
+Pest control occupations,95.4,No,HS_GED
+Power plant operators,95.4,Yes,Trade_Assoc
+Machinists,95.6,No,HS_GED
+Aircraft mechanics,95.8,No,Trade_Assoc
+Water and sewage treatment plant operators,96,No,HS_GED
+Mechanics and repairers,96,No,Trade_Assoc
+"Crane, derrick, winch, and hoist operators",96.5,No,HS_GED
+"Plant and system operators, stationary engineers",96.6,No,HS_GED
+"Helpers, surveyors",96.6,No,Trade_Assoc
+Industrial machinery repairers,96.7,No,HS_GED
+Tool and die makers and die setters,96.7,No,Trade_Assoc
+Miners,96.8,No,Trade_Assoc
+Supervisors of construction work,96.9,No,Bachelors
+Sheet metal duct installers,97.1,No,HS_GED
+Construction trades,97.1,Yes,Trade_Assoc
+Auto body repairers,97.1,No,Trade_Assoc
+Repairers of industrial electrical equipment,97.1,No,Trade_Assoc
+Machinery maintenance occupations,97.2,No,HS_GED
+"Paving, surfacing, and tamping equipment operators",97.2,No,HS_GED
+Construction laborers,97.2,No,HS_GED
+Drywall installers,97.6,No,None
+Glaziers,97.7,No,Trade_Assoc
+Repairers of household appliances and power tools,97.9,Yes,Trade_Assoc
+Small engine repairers,98.1,Yes,HS_GED
+Excavating and loading machine operators,98.2,No,None
+Electric power installers and repairers,98.2,No,HS_GED
+Structural metal workers,98.2,No,HS_GED
+Forge and hammer operators,98.2,No,HS_GED
+Millwrights,98.2,No,Trade_Assoc
+Electricians,98.2,No,Trade_Assoc
+Other mining occupations,98.2,No,Bachelors
+Carpenters,98.3,No,Trade_Assoc
+Automobile mechanics,98.4,Yes,HS_GED
+Operating engineers of construction equipment,98.4,No,HS_GED
+"Masons, tilers, and carpet installers",98.5,No,None
+Elevator installers and repairers,98.6,No,Trade_Assoc
+Plasterers,98.7,No,HS_GED
+"Plumbers, pipe fitters, and steamfitters",98.7,No,HS_GED
+Heavy equipment and farm equipment mechanics,98.8,No,Trade_Assoc
+"Heating, air conditioning, and refigeration mechanics",98.9,No,Trade_Assoc
+Roofers and slaters,99,No,HS_GED
+"Bus, truck, and stationary engine mechanics",99,No,Trade_Assoc
+Drillers of oil wells,99.2,No,Trade_Assoc
+Concrete and cement workers,99.3,No,HS_GED
+Drillers of earth,99.6,No,Trade_Assoc
+Boilermakers,99.8,No,Trade_Assoc
